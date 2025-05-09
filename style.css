@@ -211,3 +211,11 @@ header ul li a:hover {
     width: 1000px;
     height: 600px;
 }
+
+.videobody h1 {
+    font-family: "Poppins";
+}
+
+.videobody a {
+    font-family: "Poppins";
+}
